@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="conl" value="console.log($SELECTION$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
